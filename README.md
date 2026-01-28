@@ -1,2 +1,2 @@
 # Python
-This Repo consists of programs of Python.
+This Repo consists of programs of Python that i practised during learning of python with some python concept like error handling, file handling, concept of object oriented programming. I have also used some python libraries like pandas, numpy, matplotlib, sklearn and finally i have done some of the python projects like password generator, qr code generator, rock-paper-scissor game, Quiz-game, calculator-that-saves-history, Fake-Headline-Generator,Number Guessing Game and many more.
