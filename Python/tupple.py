@@ -1,0 +1,5 @@
+a=(1,2,3,4,4)
+print(type(a))
+b=("biperson",2,3,44,2.22,True)
+print(b)
+print(type(b))
